@@ -1,0 +1,9 @@
+body{
+    background:#f5f7fb;
+    font-family:Inter,sans-serif;
+}
+
+.dashboard-wrapper{
+    display:flex;
+    min-height:100vh;
+}

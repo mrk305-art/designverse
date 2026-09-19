@@ -1,0 +1,15 @@
+@media(max-width:991px){
+
+.sidebar{
+
+left:-280px;
+
+}
+
+.main-content{
+
+margin-left:0;
+
+}
+
+}

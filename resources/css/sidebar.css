@@ -1,0 +1,15 @@
+.sidebar{
+    width:280px;
+    background:#fff;
+    border-right:1px solid #e5e7eb;
+    position:fixed;
+    left:0;
+    top:0;
+    bottom:0;
+    overflow-y:auto;
+    transition:.3s;
+}
+
+.main-content{
+    margin-left:280px;
+}
